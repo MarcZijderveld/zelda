@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="tmpl83.00c">
+</Property><Property Name="Solution File" Value="C:\Users\Brian\Desktop\PR1 2011\tmpl83.00c\tmpl83.00c.sln">
+</Property><Property Name="Date" Value="08 September 2011">
+</Property><Property Name="Time" Value="16:09">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="tmpl83.00c.sln" Description="File successfully backed up as C:\Users\Brian\Desktop\PR1 2011\tmpl83.00c\tmpl83.00c.sln.old">
+</Event><Event ErrorLevel="0" Project="tmpl83.00c" Source="tmpl83.00c.vcproj" Description="Converting project file 'C:\Users\Brian\Desktop\PR1 2011\tmpl83.00c\tmpl83.00c.vcproj'.">
+</Event><Event ErrorLevel="1" Project="tmpl83.00c" Source="tmpl83.00c.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="tmpl83.00c" Source="tmpl83.00c.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="tmpl83.00c" Source="tmpl83.00c.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="tmpl83.00c" Source="tmpl83.00c.vcproj" Description="MSB8012: $(TargetName) ('Template') does not match the Linker's OutputFile property value 'Template_debug.exe' ('Template_debug') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetName) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="tmpl83.00c" Source="tmpl83.00c.vcproj" Description="MSB8012: $(TargetPath) ('C:\Users\Brian\Desktop\PR1 2011\tmpl83.00c\Debug\Template.exe') does not match the Linker's OutputFile property value 'Template_debug.exe' ('C:\Users\Brian\Desktop\PR1 2011\tmpl83.00c\Template_debug.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="tmpl83.00c" Source="tmpl83.00c.vcproj" Description="Done converting to new project file 'C:\Users\Brian\Desktop\PR1 2011\tmpl83.00c\tmpl83.00c.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="tmpl83.00c" Source="tmpl83.00c.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="tmpl83.00c.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="tmpl83.00c.sln" Description="Converted">
+</Event></UpgradeLog>
